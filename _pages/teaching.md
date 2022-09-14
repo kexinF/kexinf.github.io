@@ -19,9 +19,18 @@ author_profile: true
 	
 	
 
-Student rating criterion：
+Texas A&M teaching assistant student rating criterion：
+
+
 5: Deserves an award in this area; excellent
+
+
 4: Very Good
+
+
 3: Good
+
+
 2: Does not perform well in this area
+
 1: Has serious deficiencies in this area which are detrimental to students
