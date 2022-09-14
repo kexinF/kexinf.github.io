@@ -6,12 +6,6 @@ author_profile: true
 
 ---
 
-```html
-<span style="color:green;font-weight:700;font-size:15px">
-    markdown color font styles
-</span>
-```
-
 1. **K. Feng** and T. Chaspari, “Few-shot Learning in Emotion Recognition of Spontaneous Speech Using a Siamese Neural Network with Adaptive Sample Pair Formation,**”** IEEE Transactions on Affective Computing (TAFFC), DOI: 10.1109/TAFFC.2021.3109485
 1. M. Yadav, Md. Sakib, E. H. Nirjhar, **K. Feng**, A. Behzadan and T. Chaspari, “Exploring individual differences of public speaking anxiety in real-life and virtual presentations,” IEEE Transactions on Affective Computing (TAFFC), DOI: 10.1109/TAFFC.2020.3048299
 1. **K. Feng** and T. Chaspari, “A review of generalizable transfer learning in automatic emotion recognition,” Frontiers in Computer Science*,* DOI: 10.3389/fcomp.2020.00009
