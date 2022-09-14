@@ -16,21 +16,11 @@ author_profile: true
 	- CSCE 433/627 (formal languages and automata / theory of computability), Instructor: [Dr. Jennifer Welch](https://jenniferlwelch.net/)
 	
 	  class size: 32. Average student rating: 3.67/5
-	
-	
-
-Texas A&M teaching assistant student rating criterion：
 
 
-5: Deserves an award in this area; excellent
-
-
-4: Very Good
-
-
-3: Good
-
-
-2: Does not perform well in this area
-
-1: Has serious deficiencies in this area which are detrimental to students
+Texas A&M teaching assistant student rating criterion:  
+5: Deserves an award in this area; excellent  
+4: Very Good  
+3: Good  
+2: Does not perform well in this area  
+1: Has serious deficiencies in this area which are detrimental to students  
