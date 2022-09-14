@@ -9,7 +9,7 @@ author_profile: true
 	- CSCE 633 (Machine Learning),  Instructor: [Dr. Theodora Chapari](https://chaspari.engr.tamu.edu/)
 	Class size: 98. Average student rating: 4.16/5
 	
-* Spring 2020
+* Spring 2021
 	- CSCE 221-Honor (Data Structures and Algorithms), Instructor: [Dr. Jennifer Welch](https://jenniferlwelch.net/)
 	  class size: 30. Average student rating: 3.7/5
 	
