@@ -11,11 +11,10 @@ author_profile: true
 	
 * Spring 2021
 	- CSCE 221-Honor (Data Structures and Algorithms), Instructor: [Dr. Jennifer Welch](https://jenniferlwelch.net/)
-	  class size: 30. Average student rating: 3.7/5
+	class size: 30. Average student rating: 3.7/5
 	
 	- CSCE 433/627 (formal languages and automata / theory of computability), Instructor: [Dr. Jennifer Welch](https://jenniferlwelch.net/)
-	
-	  class size: 32. Average student rating: 3.67/5
+	class size: 32. Average student rating: 3.67/5
 
 
 Texas A&M teaching assistant student rating criterion:  
