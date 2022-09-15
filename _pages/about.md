@@ -12,7 +12,12 @@ I am a third-year Ph.D. student majoring in computer science at Texas A&M Univer
 
 I have a broad interest in affective computing, signal processing, and deep learning. Currently I am working towards applying machine learning models to real-world human-related data. This derives in two directions: 1) addressing challenges specifically for human data (e.g., interpersonal difference); and 2) increasing the transparency of the system (e.g., applying knowledge-driven methods) to gain trust from the human users, especially in the health-care field. For more information, please check my [Research](/research/),  [Publication](/publications/), or [Google Scholar](https://scholar.google.com/citations?user=LmPz0PQAAAAJ&hl=en) page.  
 
-If you really want to pronounce my name, it sounds like "Cauchy". I also go by Kevin.
+If you really want to pronounce my name, it sounds like "Cauchy". I also go by Kevin for the convenience.  
 
-
+These topics are great to start a casual conversation with me:
+* My cat
+* General fitness goals - as I am an ACE certified personal trainer
+* Powerlifting - as a subpar lifter, I am always ready to challenge myself with a heavier weight. [Here](https://vimeo.com/749962170) is my squat on a random training day
+* Switch games
+* Travel - I have been to California, Nevada, Utah, Arizona, New Mexico, Oklahoma, Loisiana, Illinois, Pennsylvania, and Florida. 
 
