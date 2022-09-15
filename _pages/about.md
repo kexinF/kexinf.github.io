@@ -18,6 +18,6 @@ These topics are great to start a casual conversation with me:
 * My cat
 * General fitness goals - as I am an ACE certified personal trainer
 * Powerlifting - as a subpar lifter, I am always ready to challenge myself with a heavier weight. [Here](https://vimeo.com/749962170) is my squat on a random training day
-* Switch games (shhh, don't let my advisor know I have spent tons of hours on that:sob:)
+* Switch games. Shhh, don't tell my advisor I have spent tons of hours on that (T⌓T)
 * Travel - I have been to California, Nevada, Utah, Arizona, New Mexico, Oklahoma, Loisiana, Illinois, Pennsylvania, and Florida. 
 
