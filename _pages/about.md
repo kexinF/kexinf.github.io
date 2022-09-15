@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a third-year Ph.D. student majoring in computer science at Texas A&M University. I am supervised by Dr. Theodora Chaspari in [HUman Bio-Behavioral Signals (HUBBS)](https://hubbs.engr.tamu.edu/) Lab.  
+
+I have a broad interest in affective computing, signal processing, and deep learning. Currently I am working towards applying machine learning models to real-world human-related data. This derives in two directions: 1) addressing challenges specifically for human data (e.g., interpersonal difference); and 2) increasing the transparency of the system (e.g., applying knowledge-driven methods) to gain trust from the human users, especially in the health-care field. For more information, please check my [Research](/research/),  [Publication](/publications/), or [Google Scholar](https://scholar.google.com/citations?user=LmPz0PQAAAAJ&hl=en) page.  
+
+If you really want to pronounce my name, it sounds like "Cauchy". I also go by Kevin.
 
 
 
