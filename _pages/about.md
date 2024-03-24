@@ -17,7 +17,7 @@ If you want to pronounce my name, it sounds like "Cauchy". I also go by Kevin fo
 These topics are great to start a casual conversation with me:
 - My cat
 - General fitness goals - as I am an ACE-certified personal trainer
-- Powerlifting - as a subpar lifter, I am always ready to challenge myself with a heavier weight. [Here](https://vimeo.com/749962170) is my squat on a random training day
+- Powerlifting - as a subpar lifter, I am always ready to challenge myself with a heavier weight.
 - Switch games. Shhh, don't tell my advisor I have spent tons of hours on that (T⌓T)
 - Travel - I have been to California, Nevada, Utah, Arizona, New Mexico, Oklahoma, Louisiana, Illinois, Pennsylvania, and Florida.
 
